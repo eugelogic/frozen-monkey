@@ -21,6 +21,11 @@ export default () => (
 					<a>Gesture</a>
 				</Link>
 			</li>
+			<li>
+				<Link href='/drag'>
+					<a>Drag</a>
+				</Link>
+			</li>
 		</ul>
 	</main>
 )
