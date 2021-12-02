@@ -1,0 +1,18 @@
+{
+  "name": "frozen-monkey",
+  "version": "0.1.0",
+  "description": "Showcase of Framer Motion interactive examples",
+  "author": "Eugene Molari <eugelogic@gmail.com>",
+  "license": "UNLICENSED",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start",
+    "build:static": "next build && next out"
+  },
+  "dependencies": {
+    "next": "^12.0.4",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  }
+}
