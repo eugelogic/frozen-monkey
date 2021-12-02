@@ -16,6 +16,11 @@ export default () => (
 					<a>Keyframes</a>
 				</Link>
 			</li>
+			<li>
+				<Link href='/gesture'>
+					<a>Gesture</a>
+				</Link>
+			</li>
 		</ul>
 	</main>
 )
