@@ -1,5 +1,5 @@
 .container {
-  background-color: blue;
+  background: linear-gradient(180deg, #d309e1 0%, rgb(156, 26, 255) 100%);
   min-height: 100vh;
   display: flex;
   justify-content: center;
