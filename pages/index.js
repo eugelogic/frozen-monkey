@@ -17,6 +17,11 @@ export default () => (
 				</Link>
 			</li>
 			<li>
+				<Link href='/variants'>
+					<a>Variants</a>
+				</Link>
+			</li>
+			<li>
 				<Link href='/gesture'>
 					<a>Gesture</a>
 				</Link>
