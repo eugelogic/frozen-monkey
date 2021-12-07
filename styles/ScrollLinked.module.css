@@ -1,0 +1,77 @@
+.container {
+  background: #7700ff;
+  background-repeat: no-repeat;
+  padding: 0;
+  margin: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.contentPlaceholder {
+  max-width: 600px;
+  margin-top: 100px;
+  margin-bottom: 200px;
+  padding: 20px;
+}
+
+.header {
+  width: 100%;
+  margin-bottom: 50px;
+}
+
+.header .word {
+  height: 50px;
+  margin-right: 12px;
+}
+
+.word {
+  height: 18px;
+  background: white;
+  border-radius: 10px;
+  display: inline-block;
+  margin-bottom: 8px;
+  margin-right: 8px;
+  background: white;
+  border-radius: 10px;
+  display: inline-block;
+}
+
+.paragraph {
+  margin-bottom: 40px;
+}
+
+.progressIcon {
+  position: fixed;
+  top: 20px;
+  left: 20px;
+  width: 120px;
+  height: 120px;
+}
+
+@media (max-width: 600px) {
+  .contentPlaceholder {
+    padding-left: 80px;
+  }
+
+  .progressIcon {
+    width: 70px;
+    height: 70px;
+    left: 10px;
+    top: 10px;
+  }
+
+  .header .word {
+    height: 30px;
+  }
+
+  .word {
+    height: 14px;
+    margin-bottom: 5px;
+    margin-right: 5px;
+  }
+
+  .paragraph {
+    margin-bottom: 20px;
+  }
+}
