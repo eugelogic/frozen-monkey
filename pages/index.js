@@ -56,6 +56,11 @@ export default () => (
 					<a>Imperative</a>
 				</Link>
 			</li>
+			<li>
+				<Link href='/svgLineDrawing'>
+					<a>SVGLineDrawing</a>
+				</Link>
+			</li>
 		</ul>
 	</main>
 )
