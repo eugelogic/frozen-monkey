@@ -41,6 +41,11 @@ export default () => (
 					<a>Scroll Triggered</a>
 				</Link>
 			</li>
+			<li>
+				<Link href='/scrollLinked'>
+					<a>Scroll Linked</a>
+				</Link>
+			</li>
 		</ul>
 	</main>
 )
