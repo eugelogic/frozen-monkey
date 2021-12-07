@@ -51,6 +51,11 @@ export default () => (
 					<a>Layout</a>
 				</Link>
 			</li>
+			<li>
+				<Link href='/imperative'>
+					<a>Imperative</a>
+				</Link>
+			</li>
 		</ul>
 	</main>
 )
