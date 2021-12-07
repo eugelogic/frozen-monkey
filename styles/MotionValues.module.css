@@ -1,0 +1,28 @@
+.container {
+  width: 100vw;
+  height: 100vh;
+  overflow: hidden;
+  padding: 0;
+  margin: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.box {
+  background: white;
+  border-radius: 30px;
+  width: 150px;
+  height: 150px;
+  position: absolute;
+  top: calc(50% - 150px / 2);
+  left: calc(50% - 150px / 2);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.progressIcon {
+  width: 80%;
+  height: 80%;
+}

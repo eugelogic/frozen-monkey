@@ -31,6 +31,11 @@ export default () => (
 					<a>Drag</a>
 				</Link>
 			</li>
+			<li>
+				<Link href='/motionValues'>
+					<a>Motion Values</a>
+				</Link>
+			</li>
 		</ul>
 	</main>
 )
