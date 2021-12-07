@@ -46,6 +46,11 @@ export default () => (
 					<a>Scroll Linked</a>
 				</Link>
 			</li>
+			<li>
+				<Link href='/layout'>
+					<a>Layout</a>
+				</Link>
+			</li>
 		</ul>
 	</main>
 )
