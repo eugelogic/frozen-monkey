@@ -36,6 +36,11 @@ export default () => (
 					<a>Motion Values</a>
 				</Link>
 			</li>
+			<li>
+				<Link href='/scrollTriggered'>
+					<a>Scroll Triggered</a>
+				</Link>
+			</li>
 		</ul>
 	</main>
 )
